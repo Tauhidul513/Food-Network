@@ -1,3 +1,34 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.top-banner {
+    display: flex;
+}
+
+span {
+    color: orange;
+}
+
+.first-width {
+    width: 50%;
+    padding-right: 30px;
+}
+
+.top-margin {
+    width: 50%;
+    margin-top: 170px;
+    margin-left: 60px;
+}
+
 h1 {
-    color: brown;
+    font-size: 50px;
+}
+
+.first-anchor {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: white;
 }
