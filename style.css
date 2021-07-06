@@ -121,3 +121,27 @@ footer {
 .footer-line {
     color: gray;
 }
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(67, 73, 73);
+}
+
+.topnav a {
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.topnav a.active {
+    background-color: orangered;
+    color: white;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
