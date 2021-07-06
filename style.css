@@ -66,3 +66,35 @@ h2 {
     border-radius: 30px;
     color: white;
 }
+
+.third-flex {
+    display: flex;
+}
+
+.third-width {
+    width: 30%;
+    margin: 40px;
+    padding: 10px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 20px 2px gray;
+    border-radius: 20px;
+}
+
+.third-width img {
+    width: 100%;
+}
+
+.my-recipies {
+    text-align: center;
+    padding-left: 260px;
+    padding-right: 260px;
+    padding-bottom: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.fourth-flex {
+    display: flex;
+}
